@@ -1,1 +1,1 @@
-<h1>Hello, My name is Alex Pruitt Jr.</h1>
+<h1><center>Alex Pruitt Jr.</center></h1>
