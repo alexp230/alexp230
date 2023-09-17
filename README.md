@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
     <title>Alex Pruitt Jr.</title>
 </head>
@@ -23,5 +21,3 @@
     <p>
         While pursuing my degree, I work at the 1917 Clinic at Dewberry as an IT HelpDesk Specialist. There, I help the employees with problems that may occur while they are working. Here, providing great customer service, making sure to properly explain directions, and to have great communication is of utmost importance to me. Here, I also will try and reduce the amount of vulnerabilities on the computers of the employees who work there.
     </p>
-</body>
-</html>
