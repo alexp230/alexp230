@@ -1,1 +1,1 @@
-<h1><center>Alex Pruitt Jr.</center></h1>
+<center><h1>Alex Pruitt Jr.</h1></center>
