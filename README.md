@@ -10,21 +10,4 @@ Alongside my bachelors in Computer Science and a minor in Mathematics, obtained 
 
 While pursuing my degree, I have worked at Publix for three years and later moved to the 1917 Clinic at Dewberry as an IT HelpDesk Specialist where I work now. There, I help the employees with problems that may occur while they are working. Here, providing great customer service, making sure to properly explain directions, and to have great communication is of utmost importance to me. Here, I also will try and reduce the amount of vulnerabilities on the computers of the employees who work there.
 
-
-**College:**
-- Senior at the University of Alabama at Birmingham (UAB)
-- Pursuing a Computer Science (BS) degree with a minor in Mathematics
-- Passionate about computers, algorithms, coding languages, and applications
-
-
-![My Local Image](AlexResume_Dec.2024.png)
-
-- Experienced in building websites, games, databases
-- Gain experience with working with customers and clients
-- Work in large and small groups
-
-**Work Experience:**
-- IT HelpDesk Specialist at the 1917 Clinic at Dewberry
-- Providing excellent customer service and technical support
-- Ensuring the security of employees' computers
-
+<img src="AlexResume_Dec.2024.png" alt="Profile Picture" style="border: 2px solid black; border-radius: 5px;">
