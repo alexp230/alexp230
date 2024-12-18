@@ -17,7 +17,7 @@ While pursuing my degree, I have worked at Publix for three years and later move
 - Passionate about computers, algorithms, coding languages, and applications
 
 
-![My Local Image](Downloads/AlexResume_Dec.2024.png)
+![My Local Image](AlexResume_Dec.2024.png)
 
 - Experienced in building websites, games, databases
 - Gain experience with working with customers and clients
