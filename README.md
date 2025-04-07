@@ -10,3 +10,4 @@ In Fall 2023, I graduated with a bachelors in Computer Science (BS) and a minor 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="Alex_Resume_Apr_2025.png" alt="Resume Picture" style="border: 3px solid black; border-radius: 5px; display: block;">
+ 
