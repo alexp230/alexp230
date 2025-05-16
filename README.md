@@ -15,4 +15,6 @@ I have also worked at Publix for three years as a Deli Clerk, Produce Clerk, and
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<embed src="AlexResume-Barcode.pdf" type="application/pdf" width="100%" height="600px" />
+
 <img src="Alex_Resume_Apr_2025.png" alt="Resume Picture" style="border: 3px solid black; border-radius: 5px; display: block;">
